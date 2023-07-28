@@ -1,0 +1,8 @@
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\obj\Debug\ConApp_Doubly_LinkedList.csproj.AssemblyReference.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\obj\Debug\ConApp_Doubly_LinkedList.csproj.SuggestedBindingRedirects.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\obj\Debug\ConApp_Doubly_LinkedList.csproj.CoreCompileInputs.cache
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\bin\Debug\ConApp_Doubly_LinkedList.exe.config
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\bin\Debug\ConApp_Doubly_LinkedList.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\bin\Debug\ConApp_Doubly_LinkedList.pdb
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\obj\Debug\ConApp_Doubly_LinkedList.exe
+C:\Users\anjal\OneDrive\Desktop\Assisted_Project\ConApp_Doubly_LinkedList\obj\Debug\ConApp_Doubly_LinkedList.pdb
